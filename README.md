@@ -9,17 +9,17 @@ An Arduino-based electro-mechanical robotic system designed to **automate the so
 
 ## 🖼️ Project Poster
 
-![Project Poster](Poster.png)
+![Project Poster](Poster/Poster.png)
 
 ---
 
 ## 📸 Project Showcase
 
 **Bot on Field**
-![CarromBot on Carrom Board](CarromBoT.jpg)
+![CarromBot on Carrom Board](Photo_dump/CarromBoT.jpg)
 
 **Team at Exhibition**
-![Group Photo](Group_Photo_1.JPG)
+![Group Photo](Photo_dump/Group_Photo_1.JPG)
 
 ---
 
