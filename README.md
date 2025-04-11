@@ -1,16 +1,32 @@
 # 🤖 Project Carrom Bot
-## 📄 Abstract
-An Arduino-based electro-mechanical robotic system designed to **automate the sorting of carrom pucks** using a **4-DOF robotic arm mounted on a mobile cart** suction mechanism. The robot successfully demonstrates accurate puck picking and placement through pre-programmed logic. It showcases how low-cost electro-mechanical integration can be applied in precision automation tasks, with potential for scaling to industrial sorting systems.
 
+## 📄 Abstract
+An Arduino-based electro-mechanical robotic system designed to **automate the sorting of carrom pucks** using a **4-DOF robotic arm mounted on a mobile cart** with suction mechanism. The robot successfully demonstrates accurate puck picking and placement through pre-programmed logic. It showcases how low-cost electro-mechanical integration can be applied in precision automation tasks, with potential for scaling to industrial sorting systems.
 
 > 🚀 Developed as part of the course [ME366: Electro-Mechanical System Design and Practice] at **Bangladesh University of Engineering and Technology (BUET)**.
+
+---
+
+## 🖼️ Project Poster
+
+![Project Poster](Poster.png)
+
+---
+
+## 📸 Project Showcase
+
+**Bot on Field**
+![CarromBot on Carrom Board](CarromBoT.jpg)
+
+**Team at Exhibition**
+![Group Photo](Group_Photo_1.JPG)
 
 ---
 
 ## 📽️ Project Demonstrations
 
 - 🎯 **Complete Project Demonstration**: [Watch on YouTube](https://www.youtube.com/watch?v=0QuMNoEQiSg)
-- 🧲 **Suction Mechanism Tutorial **: [Watch Tutorial](https://www.youtube.com/watch?v=8Wvk7AqxIFw)
+- 🧲 **Suction Mechanism Tutorial**: [Watch Tutorial](https://www.youtube.com/watch?v=8Wvk7AqxIFw)
 
 ---
 
@@ -112,4 +128,3 @@ The robot successfully completed the task of picking and placing all carrom disc
 Bangladesh University of Engineering and Technology (BUET)
 
 ---
-
