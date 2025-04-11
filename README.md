@@ -5,21 +5,6 @@ An Arduino-based electro-mechanical robotic system designed to **automate the so
 
 > 🚀 Developed as part of the course [ME366: Electro-Mechanical System Design and Practice] at **Bangladesh University of Engineering and Technology (BUET)**.
 
----
-
-## 🖼️ Project Poster
-
-![Project Poster](Poster/Poster.png)
-
----
-
-## 📸 Project Showcase
-
-**Bot on Field**
-![CarromBot on Carrom Board](Photo_dump/CarromBoT.jpg)
-
-**Team at Exhibition**
-![Group Photo](Photo_dump/Group_Photo_1.JPG)
 
 ---
 
@@ -80,6 +65,21 @@ To design and implement a robotic system capable of autonomously arranging carro
 
 The robot successfully completed the task of picking and placing all carrom discs in the desired pattern during a live demonstration. The suction mechanism was robust, and servo positioning was accurate.
 
+---
+
+## 🖼️ Project Poster
+
+![Project Poster](Poster/Poster.png)
+
+---
+
+## 📸 Project Showcase
+
+**Bot on Field**
+![CarromBot on Carrom Board](Photo_dump/CarromBoT.jpg)
+
+**Team at Exhibition**
+![Group Photo](Photo_dump/Group_Photo_1.JPG)
 ---
 
 ## 🧠 Challenges Faced
