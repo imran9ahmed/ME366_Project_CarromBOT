@@ -1,8 +1,7 @@
 # 🤖 Project Carrom Bot
 ## 📄 Abstract
-This project presents a mobile Arduino-based robotic system designed to autonomously sort carrom discs using a 4-DOF arm and suction mechanism. Built as part of an academic course, the robot successfully demonstrates accurate puck picking and placement through pre-programmed logic. It showcases how low-cost electro-mechanical integration can be applied in precision automation tasks, with potential for scaling to industrial sorting systems.
+An Arduino-based electro-mechanical robotic system designed to **automate the sorting of carrom pucks** using a **4-DOF robotic arm mounted on a mobile cart** suction mechanism. The robot successfully demonstrates accurate puck picking and placement through pre-programmed logic. It showcases how low-cost electro-mechanical integration can be applied in precision automation tasks, with potential for scaling to industrial sorting systems.
 
-An Arduino-based electro-mechanical robotic system designed to **automate the sorting of carrom pucks** using a **4-DOF robotic arm mounted on a mobile cart**.
 
 > 🚀 Developed as part of the course [ME366: Electro-Mechanical System Design and Practice] at **Bangladesh University of Engineering and Technology (BUET)**.
 
